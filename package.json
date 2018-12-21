@@ -1,0 +1,26 @@
+{
+  "name": "silvermiguel",
+  "version": "2.0.0",
+  "description": "Personal Card For Miguelangel Rendon @silvermiguel96",
+  "main": "index.js",
+  "bin": {
+    "bitandbang": "./bin/card.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silvermiguel96/CardPerson.git"
+  },
+  "author": "Miguealngel Rendon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvermiguel96/CardPerson/issues"
+  },
+  "homepage": "https://github.com/silvermiguel96/CardPerson#readme",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1"
+  }
+}
