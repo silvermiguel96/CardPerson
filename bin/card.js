@@ -20,7 +20,7 @@ const data = {
   twitter: chalk.cyan('https://twitter.com/silvermiguel96'),
   github: chalk.cyan('https://github.com/silvermiguel96/'),
   linkedin: chalk.cyan('https://www.linkedin.com/in/miguelangel-rendon-cuartas-73850416b'),
-  npx: chalk.white('npx silvermiguel'),
+  npx: chalk.white('npx silvermiguel96'),
   labelWork: chalk.white.bold('      Work:'),
   labelTwitter: chalk.white.bold('   Twitter:'),
   labelGitHub: chalk.white.bold('    GitHub:'),

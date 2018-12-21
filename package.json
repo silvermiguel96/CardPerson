@@ -1,7 +1,7 @@
 {
-  "name": "silvermiguel",
-  "version": "2.0.0",
-  "description": "Personal Card For Miguelangel Rendon @silvermiguel96",
+  "name": "silvermiguel96",
+  "version": "3.0.0",
+  "description": "Personal Card For Miguelangel Rendon @silvermiguel96 inspired by Tierney Cyren (@bitandbang)",
   "main": "index.js",
   "bin": {
     "bitandbang": "./bin/card.js"
